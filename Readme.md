@@ -1,6 +1,6 @@
 <!-- # Non-Fungible Token Description Framework (NFT-DF) -->
 
-# InterPlanetary NFT Extensions (IPNFT)
+# InterPlanetary NFT Extensions (IPNFTX)
 
 
 ## Simple Summary
